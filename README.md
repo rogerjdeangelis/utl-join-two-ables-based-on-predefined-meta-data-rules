@@ -4,6 +4,8 @@ Join two tables based on predefined meta data rules
 
     Join two tables based on predefined meta data rules
 
+    https://github.com/rogerjdeangelis/utl-join-two-ables-based-on-predefined-meta-data-rules
+
     https://stackoverflow.com/questions/77230754/how-to-merge-these-two-dataframes
 
           SOLUTIONS
